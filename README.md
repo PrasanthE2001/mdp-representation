@@ -30,9 +30,9 @@ Releasing right amoount of nitrogen
 
 
 ## PYTHON REPRESENTATION:
-Developed By : **Nithishkumar P**
+Developed By : **PRASANTH E**
 </br>
-Register No. : **212221230070**
+Register No. : **212221233002**
 ```py
 P={0: {0: [(1.0, 0, 0.0, True)],
        1: [(1.0, 0, 0.0, True)]},
