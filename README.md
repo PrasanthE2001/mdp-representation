@@ -25,7 +25,8 @@ Releasing right amoount of nitrogen
 1-right amount of nitrogen, 0-otherwise
 
 ### Graphical Representation :
-![image](https://github.com/NITHISHKUMAR-P/mdp-representation/assets/93427017/502b4b83-f11a-4cf5-bdf8-7bfa7b6d45ff)
+![image](https://github.com/PrasanthE2001/mdp-representation/assets/114572171/6499f8e0-2fd9-45b2-b5d9-d8b605ffe5d0)
+
 
 
 ## PYTHON REPRESENTATION:
